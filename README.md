@@ -4,7 +4,7 @@ An interactive dashboard analyzing smartphone sales trends across major companie
 (Apple, Samsung, Xiaomi, Vivo, Oppo, OnePlus, Google, Realme) from 2019–2025, with
 year-over-year growth analysis and next-year demand forecasting.
 
-🔗 **Live demo:** [your-streamlit-link-here](https://your-username-phone-sales-dashboard.streamlit.app)
+🔗 Live demo: https://phone-sales-dashboard.streamlit.app/
 
 ---
 
